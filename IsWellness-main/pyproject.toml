@@ -1,0 +1,21 @@
+[project]
+name = "wellness"
+version = "0.1.0"
+description = "Wellness Routine Manager"
+readme = "README.md"
+requires-python = ">=3.14"
+authors = []
+dependencies = [
+    "flet>=0.85.2",
+    "httpx",
+    "python-dotenv",
+]
+
+[tool.flet]
+org = "com.mycompany"
+product = "wellness"
+company = "Flet"
+copyright = "Copyright (C) 2023-2026 by Flet"
+
+[tool.flet.app]
+path = "src"

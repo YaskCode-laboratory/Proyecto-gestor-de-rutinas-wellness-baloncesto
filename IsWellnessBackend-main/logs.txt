@@ -1,0 +1,2042 @@
+2026-07-15 15:59:40, eca2c1b3-cb26-437b-8eae-76f316fa8244, Registro, Meta: Mejorar tiro libre
+2026-07-15 15:59:54, eca2c1b3-cb26-437b-8eae-76f316fa8244, Logout
+2026-07-15 16:00:15, eca2c1b3-cb26-437b-8eae-76f316fa8244, Login
+2026-07-15 16:00:17, eca2c1b3-cb26-437b-8eae-76f316fa8244, Logout
+2026-07-15 16:21:21, eca2c1b3-cb26-437b-8eae-76f316fa8244, Login
+2026-07-15 16:21:50, eca2c1b3-cb26-437b-8eae-76f316fa8244, Login
+2026-07-15 16:23:54, eca2c1b3-cb26-437b-8eae-76f316fa8244, MetaAlcanzada, Meta: Mejorar tiro libre
+2026-07-15 16:24:26, eca2c1b3-cb26-437b-8eae-76f316fa8244, Login
+2026-07-15 16:24:38, eca2c1b3-cb26-437b-8eae-76f316fa8244, Logout
+2026-07-19 15:19:53, eca2c1b3-cb26-437b-8eae-76f316fa8244, Login
+2026-07-19 15:21:28, eca2c1b3-cb26-437b-8eae-76f316fa8244, Registro, Rutina generada: Rutina Base - 2026-07-19
+2026-07-19 15:24:24, eca2c1b3-cb26-437b-8eae-76f316fa8244, Consulta, Listado de rutinas
+2026-07-19 15:26:36, eca2c1b3-cb26-437b-8eae-76f316fa8244, Consulta, Rutina: Rutina Base - 2026-07-19
+2026-07-19 15:30:09, eca2c1b3-cb26-437b-8eae-76f316fa8244, Ejecución, Rutina: Rutina Base - 2026-07-19, Esfuerzo: 3
+2026-07-19 15:31:17, eca2c1b3-cb26-437b-8eae-76f316fa8244, Ejecución, Rutina: Rutina Base - 2026-07-19, Esfuerzo: 8
+2026-07-19 15:32:45, eca2c1b3-cb26-437b-8eae-76f316fa8244, Eliminación, Rutina: Rutina Base - 2026-07-19
+2026-07-19 15:34:34, eca2c1b3-cb26-437b-8eae-76f316fa8244, Registro, Rutina generada: Rutina Base - 2026-07-19
+2026-07-19 15:37:46, eca2c1b3-cb26-437b-8eae-76f316fa8244, Registro, Rutina generada: Rutina Base - 2026-07-19
+2026-07-19 15:38:22, eca2c1b3-cb26-437b-8eae-76f316fa8244, Consulta, Listado de rutinas
+2026-07-19 15:38:50, eca2c1b3-cb26-437b-8eae-76f316fa8244, Consulta, Rutina: Rutina Base - 2026-07-19
+2026-07-19 15:40:49, eca2c1b3-cb26-437b-8eae-76f316fa8244, Ejecución, Rutina: Rutina Base - 2026-07-19, Esfuerzo: 8
+2026-07-19 15:41:42, eca2c1b3-cb26-437b-8eae-76f316fa8244, Eliminación, Rutina: Rutina Base - 2026-07-19
+2026-07-19 16:13:32, eca2c1b3-cb26-437b-8eae-76f316fa8244, Login
+2026-07-19 16:14:20, eca2c1b3-cb26-437b-8eae-76f316fa8244, Ejecución, Rutina: Rutina Base - 2026-07-19, Esfuerzo: 5
+2026-07-19 16:24:48, eca2c1b3-cb26-437b-8eae-76f316fa8244, Login
+2026-07-19 16:28:02, eca2c1b3-cb26-437b-8eae-76f316fa8244, Consulta, Listado de rutinas
+2026-07-19 16:29:24, eca2c1b3-cb26-437b-8eae-76f316fa8244, Logout
+2026-07-19 16:30:05, eca2c1b3-cb26-437b-8eae-76f316fa8244, Login
+2026-07-19 16:33:56, eca2c1b3-cb26-437b-8eae-76f316fa8244, Consulta, Listado de rutinas
+2026-07-19 16:33:59, eca2c1b3-cb26-437b-8eae-76f316fa8244, Consulta, Listado de rutinas
+2026-07-19 16:34:01, eca2c1b3-cb26-437b-8eae-76f316fa8244, Consulta, Listado de rutinas
+2026-07-19 16:34:06, eca2c1b3-cb26-437b-8eae-76f316fa8244, Consulta, Listado de rutinas
+2026-07-19 16:34:54, eca2c1b3-cb26-437b-8eae-76f316fa8244, Logout
+2026-07-19 16:35:25, b727239b-71cc-496d-9744-fe30ded16d57, Registro, Meta: Prueba de meta
+2026-07-19 16:36:31, b727239b-71cc-496d-9744-fe30ded16d57, Login
+2026-07-19 16:37:40, b727239b-71cc-496d-9744-fe30ded16d57, MetaAlcanzada, Meta: Prueba de meta
+2026-07-19 16:37:46, b727239b-71cc-496d-9744-fe30ded16d57, Consulta, Listado de rutinas
+2026-07-19 16:37:50, b727239b-71cc-496d-9744-fe30ded16d57, Logout
+2026-07-19 16:38:03, b727239b-71cc-496d-9744-fe30ded16d57, Login
+2026-07-19 16:39:44, b727239b-71cc-496d-9744-fe30ded16d57, Registro, Rutina generada: Rutina Base - 2026-07-19
+2026-07-19 16:39:46, b727239b-71cc-496d-9744-fe30ded16d57, Consulta, Listado de rutinas
+2026-07-19 16:42:35, b727239b-71cc-496d-9744-fe30ded16d57, Consulta, Listado de rutinas
+2026-07-19 16:42:39, b727239b-71cc-496d-9744-fe30ded16d57, Consulta, Rutina: Rutina Base - 2026-07-19
+2026-07-19 16:43:12, b727239b-71cc-496d-9744-fe30ded16d57, Ejecución, Rutina: Rutina Base - 2026-07-19, Esfuerzo: 4
+2026-07-19 16:43:14, b727239b-71cc-496d-9744-fe30ded16d57, Consulta, Listado de rutinas
+2026-07-19 16:44:32, b727239b-71cc-496d-9744-fe30ded16d57, Consulta, Listado de rutinas
+2026-07-19 16:44:36, b727239b-71cc-496d-9744-fe30ded16d57, Eliminación, Rutina: Rutina Base - 2026-07-19
+2026-07-19 16:44:38, b727239b-71cc-496d-9744-fe30ded16d57, Consulta, Listado de rutinas
+2026-07-19 16:46:08, b727239b-71cc-496d-9744-fe30ded16d57, Logout
+2026-07-21 12:22:18, 9598dcdd-f0c0-466b-a357-a90496666603, Registro, Meta: Mejorar manejo del balon
+2026-07-21 12:22:32, 9598dcdd-f0c0-466b-a357-a90496666603, Consulta, Listado de rutinas
+2026-07-21 12:23:05, 9598dcdd-f0c0-466b-a357-a90496666603, Logout
+2026-07-21 12:32:24, b40cc8e1-c71e-4917-b72e-0ed3316faa68, Registro, Meta: Mejorar manejo del balon
+2026-07-21 12:32:28, b40cc8e1-c71e-4917-b72e-0ed3316faa68, Consulta, Listado de rutinas
+2026-07-21 12:34:07, b40cc8e1-c71e-4917-b72e-0ed3316faa68, Logout
+2026-07-21 12:36:28, fa3ad8ff-d6e0-4fd1-bc4b-9df75984afc8, Registro, Meta: Mejorar manejo del balon
+2026-07-21 12:36:34, fa3ad8ff-d6e0-4fd1-bc4b-9df75984afc8, Consulta, Listado de rutinas
+2026-07-21 12:36:48, fa3ad8ff-d6e0-4fd1-bc4b-9df75984afc8, Logout
+2026-07-21 12:37:31, b4c49c9a-514e-4c96-a42b-ad793fda6789, Registro, Meta: Mejorar tiro de 3
+2026-07-21 12:37:50, b4c49c9a-514e-4c96-a42b-ad793fda6789, Logout
+2026-07-21 12:39:35, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Meta: Mejorar manejo del balon
+2026-07-21 12:40:03, cd68283d-3350-4ddc-854d-22da9db06bee, Logout
+2026-07-25 18:10:21, cd68283d-3350-4ddc-854d-22da9db06bee, Login
+2026-07-25 18:10:26, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:10:32, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-25
+2026-07-25 18:10:35, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:10:44, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:10:48, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Rutina: Rutina Base - 2026-07-25
+2026-07-25 18:11:11, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:11:26, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-25
+2026-07-25 18:11:28, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:30:32, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:30:38, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-25 (origen: fallback)
+2026-07-25 18:30:40, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:30:45, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:30:51, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-25
+2026-07-25 18:30:54, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:31:06, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-25
+2026-07-25 18:31:08, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:31:13, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-25
+2026-07-25 18:31:15, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:31:22, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-25 (origen: fallback)
+2026-07-25 18:31:24, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:31:28, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-25
+2026-07-25 18:31:30, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:34:39, cd68283d-3350-4ddc-854d-22da9db06bee, Logout
+2026-07-25 18:36:44, cd68283d-3350-4ddc-854d-22da9db06bee, Login
+2026-07-25 18:36:50, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-25 (origen: fallback)
+2026-07-25 18:37:01, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-25 18:42:30, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-25 (origen: fallback)
+2026-07-25 18:45:22, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-25 (origen: fallback)
+2026-07-25 18:48:40, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-25 (origen: fallback)
+2026-07-25 18:53:08, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-25 (origen: fallback)
+2026-07-26 11:25:52, cd68283d-3350-4ddc-854d-22da9db06bee, Login
+2026-07-26 11:25:57, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 11:26:04, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:11:38, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:13:38, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:16:57, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:19:27, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:21:12, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:21:16, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:21:21, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:21:24, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:21:26, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:21:29, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:21:34, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:21:37, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:21:42, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-25
+2026-07-26 12:21:44, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:21:54, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:21:57, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:22:15, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:22:17, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:22:22, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:22:24, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:22:44, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-25
+2026-07-26 12:22:46, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:22:57, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-25
+2026-07-26 12:22:59, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:23:08, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-25
+2026-07-26 12:23:10, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:23:14, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-25
+2026-07-26 12:23:16, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:23:22, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:26:17, cd68283d-3350-4ddc-854d-22da9db06bee, Login
+2026-07-26 12:26:23, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:26:27, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:26:29, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:26:35, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:28:20, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:32:31, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:33:05, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:33:09, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:33:11, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:33:14, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:33:16, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:33:21, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:33:23, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:46:08, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:47:11, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:47:15, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:47:17, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:47:23, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:50:25, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:50:29, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 12:50:31, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 12:50:38, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 12:53:32, cd68283d-3350-4ddc-854d-22da9db06bee, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 20:13:44, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Registro, Meta: Mejorar el pase
+2026-07-26 20:14:32, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Consulta, Listado de rutinas
+2026-07-26 20:14:40, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Registro, Rutina generada: Rutina Base - 2026-07-26 (origen: fallback)
+2026-07-26 20:14:48, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Consulta, Listado de rutinas
+2026-07-26 20:14:58, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Consulta, Listado de rutinas
+2026-07-26 20:15:10, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Consulta, Rutina: Rutina Base - 2026-07-26
+2026-07-26 20:16:13, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Ejecución, Rutina: Rutina Base - 2026-07-26, Esfuerzo: 5
+2026-07-26 20:16:16, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Consulta, Listado de rutinas
+2026-07-26 20:17:48, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Consulta, Listado de rutinas
+2026-07-26 20:18:03, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 20:18:05, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Consulta, Listado de rutinas
+2026-07-26 20:18:14, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Logout
+2026-07-26 20:18:43, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Login
+2026-07-26 20:18:45, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Login
+2026-07-26 20:19:10, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Consulta, Listado de rutinas
+2026-07-26 20:19:51, d7ec4b48-ea6d-4317-a7e6-9f7d12d75c9d, Logout
+2026-07-26 20:20:16, cd68283d-3350-4ddc-854d-22da9db06bee, Login
+2026-07-26 20:25:04, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 20:26:06, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Rutina: Rutina Base - 2026-07-26
+2026-07-26 20:26:33, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 20:26:44, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 20:26:52, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 20:26:56, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 20:27:27, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 20:27:36, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 20:27:38, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 20:27:42, cd68283d-3350-4ddc-854d-22da9db06bee, Eliminación, Rutina: Rutina Base - 2026-07-26
+2026-07-26 20:27:44, cd68283d-3350-4ddc-854d-22da9db06bee, Consulta, Listado de rutinas
+2026-07-26 20:27:46, cd68283d-3350-4ddc-854d-22da9db06bee, Logout
+2026-07-30 10:42:38, cd68283d-3350-4ddc-854d-22da9db06bee, Login
+2026-07-30 11:32:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Meta: Mejorar regate
+2026-07-30 11:34:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-30 11:34:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-30 11:35:13, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-30 11:36:58, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-30 11:40:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-30 11:41:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-30 11:42:12, 49f68916-5e71-482d-b3a7-38cbe72273da, Registro, Meta: Mejorar la defensa
+2026-07-30 11:42:22, 49f68916-5e71-482d-b3a7-38cbe72273da, Consulta, Listado de rutinas
+2026-07-30 11:43:01, 49f68916-5e71-482d-b3a7-38cbe72273da, Registro, Rutina generada: Rutina Base - 2026-07-30 (origen: fallback)
+2026-07-30 11:43:10, 49f68916-5e71-482d-b3a7-38cbe72273da, Consulta, Listado de rutinas
+2026-07-30 11:43:17, 49f68916-5e71-482d-b3a7-38cbe72273da, Consulta, Rutina: Rutina Base - 2026-07-30
+2026-07-30 11:43:27, 49f68916-5e71-482d-b3a7-38cbe72273da, Ejecución, Rutina: Rutina Base - 2026-07-30, Esfuerzo: 4
+2026-07-30 11:43:33, 49f68916-5e71-482d-b3a7-38cbe72273da, Consulta, Listado de rutinas
+2026-07-30 11:44:35, 49f68916-5e71-482d-b3a7-38cbe72273da, Consulta, Listado de rutinas
+2026-07-30 11:45:37, 49f68916-5e71-482d-b3a7-38cbe72273da, Consulta, Listado de rutinas
+2026-07-30 11:45:41, 49f68916-5e71-482d-b3a7-38cbe72273da, Eliminación, Rutina: Rutina Base - 2026-07-30
+2026-07-30 11:45:44, 49f68916-5e71-482d-b3a7-38cbe72273da, Consulta, Listado de rutinas
+2026-07-30 11:46:06, 49f68916-5e71-482d-b3a7-38cbe72273da, Consulta, Listado de rutinas
+2026-07-30 11:46:14, 49f68916-5e71-482d-b3a7-38cbe72273da, Logout
+2026-07-30 11:50:44, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-30 11:50:51, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-30 11:51:18, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-30 11:51:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-30 11:54:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-30 11:54:56, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-30 11:59:12, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-30 12:04:42, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-30 12:07:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-30 12:07:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-30 12:07:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-30 12:13:36, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-31 11:19:58, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-31 11:20:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:21:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:27:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-31 11:34:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-31 11:34:14, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:34:52, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:34:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:36:51, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:36:54, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:36:58, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-07-31 11:37:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:37:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:37:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 11:37:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:37:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:37:17, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Tiro
+2026-07-31 11:37:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:37:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:37:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-07-31 11:37:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:37:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:37:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:37:54, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:37:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-07-31 (origen: fallback)
+2026-07-31 11:38:00, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:38:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:40:07, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:40:12, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-07-31
+2026-07-31 11:40:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-07-31, Esfuerzo: 3
+2026-07-31 11:40:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:41:13, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:41:21, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 11:44:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:44:35, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-31 11:46:51, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-31 11:48:23, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:48:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:48:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: General
+2026-07-31 11:48:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:48:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:48:35, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 11:48:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-07-31 11:48:50, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Regate
+2026-07-31 11:48:52, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Tiro
+2026-07-31 11:48:55, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:48:56, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:49:01, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:49:02, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:49:05, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Tiro
+2026-07-31 11:49:07, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: General
+2026-07-31 11:49:12, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:49:15, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-07-31 (origen: fallback)
+2026-07-31 11:50:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:50:11, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 11:51:01, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:54:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:54:23, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-07-31 (origen: fallback)
+2026-07-31 11:54:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:54:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 11:54:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:54:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:54:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:54:46, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:54:50, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 11:54:50, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 11:55:07, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:13:05, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:13:11, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-07-31 (origen: fallback)
+2026-07-31 12:13:15, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 12:13:17, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 12:13:21, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:13:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-07-31
+2026-07-31 12:13:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:13:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-07-31
+2026-07-31 12:13:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:13:37, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-07-31
+2026-07-31 12:13:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:13:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-07-31
+2026-07-31 12:13:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:13:48, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 12:13:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 12:13:53, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:14:09, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 12:14:18, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-07-31 12:14:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:14:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 12:14:37, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: General
+2026-07-31 12:14:46, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-31 12:18:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-31 12:18:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:18:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-07-31 (origen: fallback)
+2026-07-31 12:22:56, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:22:59, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-07-31 (origen: fallback)
+2026-07-31 12:23:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 12:23:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 12:23:35, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-07-31 12:23:37, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 12:23:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:23:50, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-07-31
+2026-07-31 12:23:52, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:23:56, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-07-31
+2026-07-31 12:23:58, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:24:13, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-31 12:33:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-31 12:33:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:33:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 12:33:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 12:33:36, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-07-31 12:33:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:33:42, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-07-31 (origen: fallback)
+2026-07-31 12:33:46, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 12:33:48, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:33:55, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-07-31
+2026-07-31 12:33:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 12:34:05, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-07-31 14:45:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-07-31 14:45:44, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 14:45:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado completo de ejercicios
+2026-07-31 14:45:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 14:47:24, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 14:47:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 14:47:26, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 14:49:11, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 14:49:13, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 14:49:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 14:49:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 14:49:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-07-31 14:50:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-07-31 14:50:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-07-31 14:50:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Regate
+2026-07-31 14:51:00, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:29:02, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-08-02 14:29:07, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:29:09, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 14:29:17, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-02 14:29:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Tiro
+2026-08-02 14:29:51, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina de los lunes
+2026-08-02 14:29:53, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina de los lunes
+2026-08-02 14:29:55, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina de los lunes
+2026-08-02 14:29:58, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:30:05, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina de los lunes
+2026-08-02 14:30:07, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:30:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina de los lunes
+2026-08-02 14:30:12, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:30:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de los lunes
+2026-08-02 14:30:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:30:36, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 14:30:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-08-02 14:31:11, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Regate
+2026-08-02 14:31:36, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina de los miercoles
+2026-08-02 14:31:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:32:30, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 14:32:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-08-02 14:32:52, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:32:55, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 14:32:58, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Regate
+2026-08-02 14:33:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:33:06, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 14:33:09, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-08-02 14:33:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: General
+2026-08-02 14:33:30, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Tiro
+2026-08-02 14:34:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-02 14:34:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina de los viernes
+2026-08-02 14:34:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:34:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de los viernes
+2026-08-02 14:35:42, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:35:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de los viernes
+2026-08-02 14:37:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:38:48, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:38:51, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 14:42:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 14:42:21, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Evolución de métrica: tiro_3_puntos
+2026-08-02 14:42:23, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 14:42:26, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:42:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 14:42:41, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 14:42:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 14:42:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Evolución de métrica: tiro_3_puntos
+2026-08-02 14:42:52, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 14:44:23, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 14:45:17, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 14:45:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Evolución de métrica: tiro_3_puntos
+2026-08-02 14:45:21, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:05:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:05:58, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:06:02, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:06:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:06:18, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:06:21, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:06:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de los lunes
+2026-08-02 15:06:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina de los lunes, Esfuerzo: 4
+2026-08-02 15:06:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:06:36, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:06:41, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de los miercoles
+2026-08-02 15:06:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina de los miercoles, Esfuerzo: 2
+2026-08-02 15:06:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:06:51, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:06:55, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de los viernes
+2026-08-02 15:06:59, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina de los viernes, Esfuerzo: 5
+2026-08-02 15:07:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:07:08, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:07:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:07:26, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:07:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:07:30, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:07:37, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:07:42, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:07:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-02 15:08:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-02 15:08:09, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina de finalizacion
+2026-08-02 15:08:11, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:08:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de finalizacion
+2026-08-02 15:08:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina de finalizacion, Esfuerzo: 5
+2026-08-02 15:08:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:08:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:08:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:08:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:08:53, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-02 15:09:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-02 15:09:23, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina de finalizacion 2
+2026-08-02 15:09:26, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:09:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de finalizacion 2
+2026-08-02 15:09:35, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina de finalizacion 2, Esfuerzo: 5
+2026-08-02 15:09:41, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:09:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:11:13, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:13:02, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina de los lunes
+2026-08-02 15:13:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:13:07, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina de los miercoles
+2026-08-02 15:13:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:13:14, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:13:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:13:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:13:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina de los viernes
+2026-08-02 15:13:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:13:37, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina de finalizacion
+2026-08-02 15:13:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:13:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina de finalizacion 2
+2026-08-02 15:13:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:13:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:13:51, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:15:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:15:08, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:15:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-02 (origen: fallback)
+2026-08-02 15:15:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:15:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:15:24, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-02
+2026-08-02 15:15:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-02, Esfuerzo: 5
+2026-08-02 15:15:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:18:58, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-08-02
+2026-08-02 15:19:00, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:19:05, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-08-02 15:22:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-08-02 15:22:52, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:22:54, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:23:00, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:23:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:23:08, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-02 15:23:17, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-08-02 15:23:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-02 15:23:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina 1
+2026-08-02 15:23:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:23:38, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina 1
+2026-08-02 15:23:42, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina 1, Esfuerzo: 5
+2026-08-02 15:23:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:23:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:29:38, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:29:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:29:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:30:00, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:30:07, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-02 (origen: fallback)
+2026-08-02 15:30:14, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:30:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-02
+2026-08-02 15:31:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:31:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-02
+2026-08-02 15:39:38, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Registro, Meta: mejorar regate
+2026-08-02 15:39:40, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:39:44, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Listado de rutinas
+2026-08-02 15:40:09, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Registro, Rutina generada: Rutina Base - 2026-08-02 (origen: fallback)
+2026-08-02 15:40:16, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Estadísticas de resumen
+2026-08-02 15:40:18, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Esfuerzo por categoría
+2026-08-02 15:40:24, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Listado de rutinas
+2026-08-02 15:40:27, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Rutina: Rutina Base - 2026-08-02
+2026-08-02 15:40:32, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Ejecución, Rutina: Rutina Base - 2026-08-02, Esfuerzo: 4
+2026-08-02 15:40:36, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Listado de rutinas
+2026-08-02 15:40:39, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Estadísticas de resumen
+2026-08-02 15:40:41, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Esfuerzo por categoría
+2026-08-02 15:40:46, dbbd7269-3dd8-423a-9b46-c1887cbe3582, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:50:13, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-08-02 15:50:15, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:50:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:52:17, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:52:21, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:52:23, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:52:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:52:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-02
+2026-08-02 15:52:35, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-02, Esfuerzo: 4
+2026-08-02 15:52:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:52:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:52:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:52:54, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:52:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:53:00, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-02 15:53:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Tiro
+2026-08-02 15:53:18, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina de tiro
+2026-08-02 15:53:20, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:53:24, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de tiro
+2026-08-02 15:53:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina de tiro, Esfuerzo: 1
+2026-08-02 15:53:37, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-02 15:53:44, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-02 15:53:46, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-02 15:53:56, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-08-04 11:24:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-08-04 11:24:20, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 11:24:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 11:24:26, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:24:30, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:24:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina 1
+2026-08-04 11:24:36, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:24:41, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina de tiro
+2026-08-04 11:24:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:24:48, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-08-02
+2026-08-04 11:24:50, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:24:54, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 11:24:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 11:25:14, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:25:17, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:25:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:25:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:25:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:25:41, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:25:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:25:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 4
+2026-08-04 11:25:52, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:25:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 11:25:59, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 11:26:05, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:26:08, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:26:12, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:26:15, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:26:18, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 11:26:20, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 11:26:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-08-04 11:30:18, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-08-04 11:30:23, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 11:30:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 11:30:37, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:30:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:30:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 11:30:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 11:37:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-08-04 11:38:53, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-08-04 11:39:00, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:39:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:39:08, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:39:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:39:12, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:39:14, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:39:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:39:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 2
+2026-08-04 11:39:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:39:36, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:39:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:39:41, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:39:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:39:53, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:39:56, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:40:00, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:40:02, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:41:35, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:41:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:41:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:41:48, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:41:53, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:42:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:42:18, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:42:21, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:42:23, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:42:26, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:42:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:43:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:43:30, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:43:35, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:43:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:43:46, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 4
+2026-08-04 11:43:50, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:43:56, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:43:58, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:44:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:44:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:44:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:44:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:44:38, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:44:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:44:44, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:44:46, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:45:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:45:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:45:37, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:45:41, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:45:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 4
+2026-08-04 11:45:48, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:47:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:47:08, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:47:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:47:13, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:47:17, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:47:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:47:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:47:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:47:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:47:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:47:37, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminación, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:47:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:47:42, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:47:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:47:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:50:02, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:50:07, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:50:09, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:50:12, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:50:15, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:50:20, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:35, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:38, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:45, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:50, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:50:52, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 4
+2026-08-04 11:50:54, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 4
+2026-08-04 11:50:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 4
+2026-08-04 11:53:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:53:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 11:53:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:53:38, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 11:53:44, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:53:46, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:53:48, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 11:56:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:56:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:56:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-04 11:56:35, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Manejo del balon
+2026-08-04 11:56:39, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Regate
+2026-08-04 11:56:44, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:56:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:56:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Tiro
+2026-08-04 11:57:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:57:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Regate
+2026-08-04 11:57:26, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:57:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:57:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-04 11:57:38, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:59:12, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:59:15, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 11:59:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-04 11:59:26, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Tiro
+2026-08-04 11:59:30, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-08-04 11:59:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: Rutina de los miercoles
+2026-08-04 11:59:46, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 11:59:54, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina de los miercoles
+2026-08-04 11:59:59, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecución, Rutina: Rutina de los miercoles, Esfuerzo: 4
+2026-08-04 12:00:02, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:00:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 12:00:06, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 12:00:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 12:21:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:22:53, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:23:13, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 12:23:18, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-04 12:23:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:23:27, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 12:23:31, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 12:23:33, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 12:23:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:24:01, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminacion, Rutina: Rutina Base - 2026-08-04
+2026-08-04 12:24:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:24:07, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminacion, Rutina: Rutina Base - 2026-08-04
+2026-08-04 12:24:10, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:24:13, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminacion, Rutina: Rutina Base - 2026-08-04
+2026-08-04 12:24:15, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:24:17, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 12:24:20, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 12:24:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 12:24:26, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:24:50, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 12:24:56, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:25:18, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-08-04 12:25:24, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecucion, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 3
+2026-08-04 12:25:28, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:29:38, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 12:29:41, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:32:04, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:32:29, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 12:32:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-08-04 12:32:36, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-08-04 12:32:41, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:36:30, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:38:32, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:41:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-08-04 12:41:05, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-08-04 12:41:09, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:41:52, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 12:41:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:43:46, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:45:51, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:48:47, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:48:49, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 12:48:53, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Finalizacion
+2026-08-04 12:49:01, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-08-04 12:49:09, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina manual: dsdsdssd
+2026-08-04 12:49:12, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:49:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Eliminacion, Rutina: dsdsdssd
+2026-08-04 12:49:19, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-08-04 12:49:25, 187600fc-b2a9-42d4-8364-8ac416195e75, Registro, Rutina generada: Rutina Base - 2026-08-04 (origen: fallback)
+2026-08-04 12:49:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-08-04 12:49:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-09-02 00:00:16, 187600fc-b2a9-42d4-8364-8ac416195e75, Login
+2026-09-02 00:00:22, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-09-02 00:00:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Rutina: Rutina Base - 2026-08-04
+2026-09-02 00:00:40, 187600fc-b2a9-42d4-8364-8ac416195e75, Ejecucion, Rutina: Rutina Base - 2026-08-04, Esfuerzo: 4
+2026-09-02 00:00:43, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-09-02 00:00:57, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:01:00, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Estadísticas de resumen
+2026-09-02 00:01:03, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Esfuerzo por categoría
+2026-09-02 00:01:08, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:01:11, 187600fc-b2a9-42d4-8364-8ac416195e75, Consulta, Listado de rutinas
+2026-09-02 00:01:34, 187600fc-b2a9-42d4-8364-8ac416195e75, Logout
+2026-09-02 00:10:44, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Registro, Meta: Mejorar regate
+2026-09-02 00:10:49, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:10:49, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:10:57, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:10:59, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:11:06, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:14:50, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:14:53, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:14:57, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:15:07, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-02 00:15:14, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-02 00:15:20, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Registro, Rutina manual: Rutina lunes
+2026-09-02 00:15:22, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:15:33, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Rutina: Rutina lunes
+2026-09-02 00:15:38, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Ejecucion, Rutina: Rutina lunes, Esfuerzo: 4
+2026-09-02 00:15:41, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:15:45, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:15:48, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:15:50, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:15:58, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:16:00, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:16:04, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Rutina: Rutina lunes
+2026-09-02 00:16:12, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Ejecucion, Rutina: Rutina lunes, Esfuerzo: 2
+2026-09-02 00:16:15, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:16:21, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:16:23, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:16:40, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:16:44, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Rutina: Rutina lunes
+2026-09-02 00:16:48, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Ejecucion, Rutina: Rutina lunes, Esfuerzo: 5
+2026-09-02 00:16:51, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:16:56, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:16:58, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:17:46, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:18:31, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:18:33, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:19:57, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:20:00, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:20:05, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:20:12, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-02 00:20:19, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-02 00:20:24, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Registro, Rutina manual: Rutina martes
+2026-09-02 00:20:26, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:20:31, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Rutina: Rutina martes
+2026-09-02 00:20:34, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Ejecucion, Rutina: Rutina martes, Esfuerzo: 1
+2026-09-02 00:20:38, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:20:41, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:20:43, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:26:15, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:26:19, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:26:27, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Eliminacion, Rutina: Rutina martes
+2026-09-02 00:26:29, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:26:34, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:26:36, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:26:49, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:26:50, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:26:53, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:26:57, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Rutina: Rutina lunes
+2026-09-02 00:27:01, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Ejecucion, Rutina: Rutina lunes, Esfuerzo: 1
+2026-09-02 00:27:04, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:27:08, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:27:10, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:27:21, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:27:25, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Eliminacion, Rutina: Rutina lunes
+2026-09-02 00:27:27, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:27:30, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:27:32, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:27:39, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:27:42, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:27:45, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:27:49, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-02 00:28:44, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-02 00:28:54, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Registro, Rutina manual: Rutina lunes
+2026-09-02 00:28:56, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:29:01, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:29:03, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:29:07, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:29:11, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:29:15, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Rutina: Rutina lunes
+2026-09-02 00:29:21, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Ejecucion, Rutina: Rutina lunes, Esfuerzo: 3
+2026-09-02 00:29:24, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:29:28, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:29:30, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:29:48, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:29:52, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:29:59, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Rutina: Rutina lunes
+2026-09-02 00:30:03, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Ejecucion, Rutina: Rutina lunes, Esfuerzo: 5
+2026-09-02 00:30:07, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Listado de rutinas
+2026-09-02 00:30:15, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Estadísticas de resumen
+2026-09-02 00:30:17, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Consulta, Esfuerzo por categoría
+2026-09-02 00:30:23, 0e1719eb-54e5-4d92-b567-74aa109fdef7, Logout
+2026-09-02 00:47:48, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Meta: Mejorar regate
+2026-09-02 00:47:52, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-02 00:47:55, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-02 00:48:29, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:48:32, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-02 00:48:35, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:48:40, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-02 00:48:46, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-02 00:48:55, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina manual: Rutina lunes
+2026-09-02 00:48:57, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-02 00:49:01, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-02 00:49:03, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-02 00:49:09, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-02 00:49:12, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina lunes
+2026-09-02 00:49:16, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Ejecucion, Rutina: Rutina lunes, Esfuerzo: 5
+2026-09-02 00:49:20, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-02 00:49:24, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-02 00:49:26, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-02 00:49:31, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-02 00:49:36, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina lunes
+2026-09-02 00:49:42, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Ejecucion, Rutina: Rutina lunes, Esfuerzo: 3
+2026-09-02 00:49:45, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-02 00:49:47, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-02 00:49:50, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-02 00:49:59, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-02 00:51:13, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Logout
+2026-09-02 13:45:56, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Login
+2026-09-02 13:45:59, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Login
+2026-09-02 13:46:04, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-02 13:46:11, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina Base - 2026-09-02 (origen: fallback)
+2026-09-02 13:46:32, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-02 13:46:35, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-02 13:46:40, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina Base - 2026-09-02
+2026-09-02 13:46:42, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:24:59, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Login
+2026-09-03 00:25:15, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 00:25:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:25:40, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 00:25:44, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:25:49, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:26:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, MetaAlcanzada, Meta: Mejorar regate
+2026-09-03 00:26:24, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 00:26:26, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 00:26:33, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 00:26:35, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 00:26:54, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 00:26:57, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:27:06, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 00:27:09, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 00:27:13, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 00:27:16, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:27:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina lunes
+2026-09-03 00:27:23, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Ejecucion, Rutina: Rutina lunes, Esfuerzo: 1
+2026-09-03 00:27:26, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:27:28, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 00:27:30, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 00:27:39, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Logout
+2026-09-03 00:33:03, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Login
+2026-09-03 00:33:22, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:33:41, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 00:33:45, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:33:46, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 00:33:49, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 00:33:51, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 00:49:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:49:31, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina Base - 2026-09-03 (origen: fallback)
+2026-09-03 00:49:34, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina Base - 2026-09-03 (origen: fallback)
+2026-09-03 00:49:36, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina Base - 2026-09-03 (origen: fallback)
+2026-09-03 00:49:39, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina Base - 2026-09-03 (origen: fallback)
+2026-09-03 00:49:41, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina Base - 2026-09-03 (origen: fallback)
+2026-09-03 00:49:44, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:49:49, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina Base - 2026-09-03
+2026-09-03 00:49:52, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:50:01, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina Base - 2026-09-03
+2026-09-03 00:50:03, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:50:18, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina Base - 2026-09-03
+2026-09-03 00:50:20, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:50:24, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina Base - 2026-09-03
+2026-09-03 00:50:26, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:50:37, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina Base - 2026-09-03
+2026-09-03 00:50:42, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:50:47, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina Base - 2026-09-03
+2026-09-03 00:50:49, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:51:22, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Actualizacion, Perfil actualizado
+2026-09-03 00:51:57, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 00:52:00, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 00:53:10, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 00:53:18, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 00:53:21, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 00:53:23, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 00:58:21, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Actualizacion, Perfil actualizado
+2026-09-03 00:58:23, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Actualizacion, Perfil actualizado
+2026-09-03 01:06:17, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Actualizacion, Perfil y/o meta actualizados
+2026-09-03 01:10:10, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, MetaAlcanzada, Meta: Mejorar tiro libre
+2026-09-03 01:10:30, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, MetaAlcanzada, Meta: Mejorar tiro libre
+2026-09-03 01:10:37, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 01:10:43, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 01:10:56, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Actualizacion, Perfil actualizado
+2026-09-03 01:11:48, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, MetaAlcanzada, Meta: Mejorar regate
+2026-09-03 01:12:22, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:15:14, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Login
+2026-09-03 11:15:18, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:15:20, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 11:16:10, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:17:39, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:17:42, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 11:17:55, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:17:57, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 11:18:00, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 11:20:37, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:21:23, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:21:25, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 11:21:28, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:21:29, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 11:21:30, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-03 11:21:36, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Tiro
+2026-09-03 11:21:51, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:22:18, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 11:22:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-03 11:22:30, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 11:22:32, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 11:23:59, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:24:07, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:24:18, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:24:20, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 11:24:23, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 11:24:34, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:24:38, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:24:40, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 11:25:08, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:25:23, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 11:25:34, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:27:16, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:30:04, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:30:47, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina de tiro (Fallback) (origen: fallback)
+2026-09-03 11:30:50, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:31:00, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:31:00, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 11:31:18, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:31:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 11:31:21, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 11:31:24, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 11:37:54, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 11:38:30, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:12:24, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Login
+2026-09-03 13:12:33, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:12:38, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:12:42, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-03 13:12:52, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-03 13:12:58, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-03 13:13:13, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina manual: Rutina de los miercoles
+2026-09-03 13:13:15, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina manual: Rutina de los miercoles
+2026-09-03 13:13:17, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:13:22, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina de los miercoles
+2026-09-03 13:13:24, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:13:29, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina de los miercoles
+2026-09-03 13:13:58, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Ejecucion, Rutina: Rutina de los miercoles, Esfuerzo: 2
+2026-09-03 13:14:02, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:14:14, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 13:14:17, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 13:14:32, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:14:34, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-03 13:14:38, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Regate
+2026-09-03 13:15:28, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Actualizacion, Perfil actualizado
+2026-09-03 13:15:40, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, MetaAlcanzada, Meta: Mejorar tiro libre
+2026-09-03 13:16:14, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, MetaAlcanzada, Meta: Mejorar tiro libre
+2026-09-03 13:16:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 13:16:21, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 13:17:58, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:18:46, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina jueves (Fallback) (origen: fallback)
+2026-09-03 13:18:48, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:19:17, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:19:20, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:19:40, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina de tiro (Fallback)
+2026-09-03 13:21:10, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:21:25, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:21:29, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-03 13:21:47, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:21:58, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 13:22:00, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 13:22:27, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:22:39, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina lunes
+2026-09-03 13:23:09, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:23:10, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:23:12, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-03 13:23:29, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:23:31, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:23:33, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-03 13:23:45, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Tiro
+2026-09-03 13:23:50, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-03 13:25:14, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-03 13:25:43, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Estadísticas de resumen
+2026-09-03 13:25:45, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Esfuerzo por categoría
+2026-09-03 13:25:50, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:26:10, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:26:14, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:26:32, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: General
+2026-09-03 13:26:52, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-03 13:26:57, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: General
+2026-09-03 13:27:17, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:27:20, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:27:27, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:28:25, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 13:28:47, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 13:31:02, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Logout
+2026-09-03 17:21:44, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Login
+2026-09-03 17:22:28, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:22:37, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Actualizacion, Perfil actualizado
+2026-09-03 17:22:41, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:22:47, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina jueves (Fallback)
+2026-09-03 17:22:50, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:23:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina de tiro de 3 (Fallback) (origen: fallback)
+2026-09-03 17:23:21, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:29:22, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina de tiro de 3 (Fallback)
+2026-09-03 17:29:25, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:29:47, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina prueba (Fallback) (origen: fallback)
+2026-09-03 17:29:49, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:32:32, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:32:48, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina prueba (Fallback)
+2026-09-03 17:32:50, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:32:54, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina de tiro (Fallback)
+2026-09-03 17:32:56, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:33:31, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina de prueba (Fallback) (origen: fallback)
+2026-09-03 17:33:33, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:38:22, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:39:41, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina prueba (Fallback) (origen: fallback)
+2026-09-03 17:39:43, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina prueba (IA) (origen: ia)
+2026-09-03 17:47:44, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:47:56, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina de prueba (Fallback)
+2026-09-03 17:47:58, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:48:03, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina prueba (IA)
+2026-09-03 17:48:26, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:48:30, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 17:48:32, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Tiro
+2026-09-03 17:48:37, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:48:43, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina prueba (IA)
+2026-09-03 17:48:45, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:50:58, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina Javier (Fallback) (origen: fallback)
+2026-09-03 17:51:00, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:51:13, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina prueba (Fallback)
+2026-09-03 17:51:15, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:51:23, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina Javier (Fallback)
+2026-09-03 17:51:25, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:52:08, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina de prueba (IA) (origen: ia)
+2026-09-03 17:52:10, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:52:25, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina de prueba (IA)
+2026-09-03 17:52:59, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 17:53:53, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina de los miercoles
+2026-09-03 17:53:59, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:32:41, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Login
+2026-09-03 18:33:01, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 18:33:05, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:34:24, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina prueba 2 (Fallback) (origen: fallback)
+2026-09-03 18:34:27, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:34:35, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina prueba 2 (Fallback)
+2026-09-03 18:34:38, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:34:42, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina prueba 2 (Fallback)
+2026-09-03 18:34:48, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:35:04, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina de prueba (IA)
+2026-09-03 18:35:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:35:25, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina de los miercoles
+2026-09-03 18:35:28, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:35:48, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 18:35:49, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Regate
+2026-09-03 18:35:53, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: General
+2026-09-03 18:36:05, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-03 18:36:09, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: General
+2026-09-03 18:36:32, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:37:48, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina prueba 3 (Fallback) (origen: fallback)
+2026-09-03 18:37:50, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:40:16, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:40:40, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina prueba 4 (Fallback) (origen: fallback)
+2026-09-03 18:40:42, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:45:00, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:45:05, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina prueba 2 (Fallback)
+2026-09-03 18:45:07, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:45:10, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina prueba 4 (Fallback)
+2026-09-03 18:45:13, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:45:15, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 18:45:16, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: General
+2026-09-03 18:45:22, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:45:27, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina prueba 3 (Fallback)
+2026-09-03 18:45:29, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:46:04, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina de prueba 1 (IA) (origen: ia)
+2026-09-03 18:46:29, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Registro, Rutina generada: Rutina de prueba 1 (IA) (origen: ia)
+2026-09-03 18:46:31, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:47:05, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Eliminacion, Rutina: Rutina de prueba 1 (IA)
+2026-09-03 18:47:08, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:47:13, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Rutina: Rutina de prueba 1 (IA)
+2026-09-03 18:48:19, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de rutinas
+2026-09-03 18:48:23, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Listado de categorías de ejercicios
+2026-09-03 18:48:24, 1802acde-cfa2-4fc6-9ea0-34978218fd8f, Consulta, Ejercicios de categoría: General
+2026-09-04 12:04:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Registro, Meta: Mejorar el tiro de media distancia
+2026-09-04 12:04:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:04:55, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-04 12:04:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Tiro
+2026-09-04 12:05:01, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:05:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-04 12:05:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-04 12:05:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:05:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Registro, Rutina generada: Rutina prueba (Fallback) (origen: fallback)
+2026-09-04 12:05:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:06:18, 8d1f0a97-246a-43d2-89e4-794bdb371622, Eliminacion, Rutina: Rutina prueba (Fallback)
+2026-09-04 12:06:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:06:53, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-04 12:06:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:07:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Registro, Rutina generada: Rutina prueba (IA) (origen: ia)
+2026-09-04 12:07:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:07:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina prueba (IA)
+2026-09-04 12:08:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:08:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-04 12:09:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-04 12:09:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-04 12:09:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-04 12:09:26, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Tiro
+2026-09-04 12:09:30, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-04 12:09:36, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:09:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-04 12:09:41, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Tiro
+2026-09-04 12:09:55, 8d1f0a97-246a-43d2-89e4-794bdb371622, Registro, Rutina manual: Rutina tiro
+2026-09-04 12:09:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-04 12:10:01, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina tiro
+2026-09-04 12:10:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:19:32, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-07 12:20:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 12:20:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 12:21:01, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 12:25:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 12:25:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 12:25:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 12:28:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 12:28:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 12:28:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 12:31:20, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 12:31:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 12:31:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 12:31:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:31:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:31:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:31:41, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:31:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 12:31:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 12:32:50, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:33:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:33:16, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:33:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 12:33:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 12:33:29, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:33:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:33:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:33:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 12:33:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 12:33:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 12:37:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:37:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:37:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:37:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 12:37:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:37:29, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 12:37:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 12:37:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 12:43:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:43:41, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:43:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:46:09, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:46:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:46:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:46:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-07 12:49:05, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:49:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:49:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:49:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:49:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:49:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:49:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:49:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 12:50:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:50:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:50:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 12:51:05, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:51:05, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:51:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 12:53:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:53:20, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:53:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 12:53:30, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:54:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:54:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:54:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:57:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:57:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 12:57:20, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:57:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:57:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 12:57:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 12:57:50, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 12:58:36, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:59:39, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 12:59:39, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 13:00:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 13:00:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 13:00:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:00:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:01:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 13:01:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 13:01:39, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:01:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:01:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:01:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 13:04:30, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 13:04:30, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 13:04:32, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 13:04:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 13:04:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 13:04:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:04:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:04:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 13:04:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 13:05:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:06:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 13:06:55, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 13:06:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:06:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:07:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 13:07:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 13:07:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 13:07:29, 8d1f0a97-246a-43d2-89e4-794bdb371622, Registro, Rutina manual: Prueba series y repeticiones
+2026-09-07 13:07:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 13:07:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Prueba series y repeticiones
+2026-09-07 13:07:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 20:31:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-07 20:31:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 20:31:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-07 20:32:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-07 20:32:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-07 20:32:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Tiro
+2026-09-07 20:32:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-07 20:32:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 20:32:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 20:33:01, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 20:33:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 20:33:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-07 20:33:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-07 20:33:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 20:33:13, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:33:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:33:18, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 20:36:18, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 20:36:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:36:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:36:30, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 20:45:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:45:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:45:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 20:46:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:46:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:46:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 20:48:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:48:36, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:48:39, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 20:51:22, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:51:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:51:26, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 20:54:00, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:54:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:54:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 20:54:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_libre
+2026-09-07 20:54:16, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: pases_completados
+2026-09-07 20:54:18, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: puntos_por_partido
+2026-09-07 20:54:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 20:54:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Prueba series y repeticiones
+2026-09-07 20:54:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Ejecucion, Rutina: Prueba series y repeticiones, Esfuerzo: 4
+2026-09-07 20:55:08, 8d1f0a97-246a-43d2-89e4-794bdb371622, Ejecucion, Rutina: Prueba series y repeticiones, Esfuerzo: 4
+2026-09-07 20:55:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 20:55:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:55:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:55:20, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 20:55:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_libre
+2026-09-07 20:55:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: pases_completados
+2026-09-07 20:55:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: puntos_por_partido
+2026-09-07 20:55:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:55:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 20:55:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 20:55:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina prueba (IA)
+2026-09-07 20:55:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Ejecucion, Rutina: Rutina prueba (IA), Esfuerzo: 5
+2026-09-07 20:56:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 20:56:22, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:56:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:56:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 20:56:53, 8d1f0a97-246a-43d2-89e4-794bdb371622, Actualizacion, Perfil actualizado
+2026-09-07 20:56:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, MetaAlcanzada, Meta: Mejorar el tiro de media distancia
+2026-09-07 20:57:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 20:57:08, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 20:57:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 20:57:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 21:03:09, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:03:13, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina tiro
+2026-09-07 21:03:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Ejecucion, Rutina: Rutina tiro, Esfuerzo: 3
+2026-09-07 21:03:20, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:04:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 21:04:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 21:04:36, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 21:04:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_libre
+2026-09-07 21:04:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_libre
+2026-09-07 21:04:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: pases_completados
+2026-09-07 21:04:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: puntos_por_partido
+2026-09-07 21:04:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 21:05:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 21:05:05, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 21:05:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 21:06:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 21:06:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Evolución de métrica: tiro_3_puntos
+2026-09-07 21:06:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 21:14:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 21:14:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 21:14:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:14:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 21:14:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-07 21:14:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-07 21:14:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-07 21:14:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-07 21:15:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Registro, Rutina manual: Rutina pase
+2026-09-07 21:15:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:15:09, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina pase
+2026-09-07 21:15:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Ejecucion, Rutina: Rutina pase, Esfuerzo: 3
+2026-09-07 21:15:16, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:15:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 21:15:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 21:16:22, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:16:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 21:16:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-07 21:16:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 21:16:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:16:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina prueba (IA)
+2026-09-07 21:17:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:17:09, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 21:17:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 21:17:22, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:19:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Registro, Rutina generada: Rutina IA (IA) (origen: ia)
+2026-09-07 21:19:09, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:19:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina IA (IA)
+2026-09-07 21:20:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:20:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 21:20:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-07 21:20:26, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:20:30, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina IA (IA)
+2026-09-07 21:20:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:20:39, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 21:20:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Tiro
+2026-09-07 21:20:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:21:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina IA (IA)
+2026-09-07 21:21:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:21:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 21:21:26, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 21:25:29, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:25:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 21:25:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-07 21:25:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:25:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-07 21:25:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 21:26:16, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 21:26:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 21:26:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-07 21:26:29, 8d1f0a97-246a-43d2-89e4-794bdb371622, Registro, Rutina manual: Rutina manejo del balon
+2026-09-07 21:26:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:26:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina manejo del balon
+2026-09-07 21:26:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Ejecucion, Rutina: Rutina manejo del balon, Esfuerzo: 2
+2026-09-07 21:26:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-07 21:26:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-07 21:27:00, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-09 11:12:55, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-09 11:16:32, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-09 11:16:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Prueba series y repeticiones
+2026-09-09 11:19:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-09 11:20:01, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina pase
+2026-09-09 11:20:08, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-09 11:20:13, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina prueba (IA)
+2026-09-09 11:28:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Actualizacion, Perfil actualizado
+2026-09-09 11:28:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, MetaAlcanzada, Meta: Mejorar el tiro de 3
+2026-09-09 11:28:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, MetaAlcanzada, Meta: Mejorar el tiro de 3
+2026-09-09 11:28:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-09 11:28:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-09 11:29:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-09 11:29:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-09 11:29:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-09 11:29:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Logout
+2026-09-09 11:30:42, 8ce6992a-6ede-433f-8115-e344f1348e93, Registro, Meta: Mejorar el regate
+2026-09-09 11:30:59, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:31:01, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de categorías de ejercicios
+2026-09-09 11:31:04, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-09 11:31:08, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-09 11:31:12, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-09 11:31:15, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-09 11:31:20, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-09 11:31:27, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Tiro
+2026-09-09 11:31:29, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Tiro
+2026-09-09 11:31:31, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Tiro
+2026-09-09 11:31:40, 8ce6992a-6ede-433f-8115-e344f1348e93, Registro, Rutina manual: Rutina de los lunes
+2026-09-09 11:31:42, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:32:02, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Rutina: Rutina de los lunes
+2026-09-09 11:32:31, 8ce6992a-6ede-433f-8115-e344f1348e93, Ejecucion, Rutina: Rutina de los lunes, Esfuerzo: 2
+2026-09-09 11:32:34, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:32:37, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de categorías de ejercicios
+2026-09-09 11:32:49, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-09 11:32:52, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-09 11:32:55, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Regate
+2026-09-09 11:32:57, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Tiro
+2026-09-09 11:33:02, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Estadísticas de resumen
+2026-09-09 11:33:04, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Esfuerzo por categoría
+2026-09-09 11:34:00, 8ce6992a-6ede-433f-8115-e344f1348e93, Actualizacion, Perfil actualizado
+2026-09-09 11:34:06, 8ce6992a-6ede-433f-8115-e344f1348e93, MetaAlcanzada, Meta: Mejorar el regate
+2026-09-09 11:34:32, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Estadísticas de resumen
+2026-09-09 11:34:34, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Esfuerzo por categoría
+2026-09-09 11:36:15, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:38:38, 8ce6992a-6ede-433f-8115-e344f1348e93, Registro, Rutina generada: Rutina de IA (IA) (origen: ia)
+2026-09-09 11:38:41, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:39:09, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Rutina: Rutina de IA (IA)
+2026-09-09 11:39:27, 8ce6992a-6ede-433f-8115-e344f1348e93, Ejecucion, Rutina: Rutina de IA (IA), Esfuerzo: 5
+2026-09-09 11:39:30, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:39:34, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Rutina: Rutina de IA (IA)
+2026-09-09 11:39:47, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:39:48, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de categorías de ejercicios
+2026-09-09 11:39:50, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Tiro
+2026-09-09 11:40:34, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Ejercicios de categoría: Tiro
+2026-09-09 11:41:51, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:41:55, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Rutina: Rutina de IA (IA)
+2026-09-09 11:43:58, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:44:18, 8ce6992a-6ede-433f-8115-e344f1348e93, Consulta, Listado de rutinas
+2026-09-09 11:44:20, 8ce6992a-6ede-433f-8115-e344f1348e93, Logout
+2026-09-09 11:44:30, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-09 11:44:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-09 11:44:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-09 11:44:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-09 11:46:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-10 11:33:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-10 11:33:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:34:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-10 11:34:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-10 11:34:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:34:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-10 11:34:16, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:34:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-10 11:34:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-10 11:34:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:34:53, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-10 11:34:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:37:26, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:38:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:38:50, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-10 11:38:53, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-10 11:38:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:38:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-10 11:39:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:43:08, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:43:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-10 11:45:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:45:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-10 11:45:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:45:41, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-10 11:45:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-10 11:45:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-10 11:45:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:45:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-10 11:46:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Actualizacion, Perfil actualizado
+2026-09-10 11:46:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-10 11:46:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:46:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-10 11:46:50, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-10 11:46:53, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-10 11:46:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-10 11:47:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-10 11:47:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-10 11:48:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Prueba series y repeticiones
+2026-09-10 11:48:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Ejecucion, Rutina: Prueba series y repeticiones, Esfuerzo: 3
+2026-09-10 11:48:18, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-10 11:48:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-10 11:48:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Logout
+2026-09-11 11:52:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-11 11:52:13, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 11:52:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 11:52:26, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 11:52:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 11:53:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 11:53:09, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 11:53:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 11:53:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 11:54:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 11:54:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 11:54:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 11:54:50, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 11:59:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:00:08, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:00:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:00:13, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:04:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:04:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:04:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:04:53, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:08:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:08:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, MetaAlcanzada, Meta: Mejorar mi defensa
+2026-09-11 12:08:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:08:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:09:29, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:09:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:09:36, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:09:39, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:09:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-11 12:09:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-11 12:09:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:09:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:09:53, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:15:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:15:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:15:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:15:50, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:16:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:16:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:16:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Actualizacion, Perfil actualizado
+2026-09-11 12:16:36, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:16:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, MetaAlcanzada, Meta: Mejorar mis pases
+2026-09-11 12:17:01, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-11 12:17:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:17:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Actualizacion, Perfil actualizado
+2026-09-11 12:17:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:18:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:18:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-11 12:18:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina IA (IA)
+2026-09-11 12:18:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Ejecucion, Rutina: Rutina IA (IA), Esfuerzo: 3
+2026-09-11 12:18:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-11 12:18:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:19:01, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:19:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:19:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:19:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, MetaAlcanzada, Meta: Mejorar mi manejo del balon con la mano izquierda
+2026-09-11 12:19:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:23:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Actualizacion, Perfil actualizado
+2026-09-11 12:23:05, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:23:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:23:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:23:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:23:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:23:41, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:26:01, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:26:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:26:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, MetaAlcanzada, Meta: Mejorar mi juego de pies
+2026-09-11 12:26:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:28:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:29:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:31:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:31:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:32:13, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:32:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:34:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:34:13, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:41:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:41:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:41:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:41:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:42:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Analisis de progreso con IA
+2026-09-11 12:44:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-11 12:44:50, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:44:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:44:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:44:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:45:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:45:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:45:08, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:46:54, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:47:00, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-11 12:47:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-11 12:47:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:47:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:47:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:47:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Analisis de progreso con IA
+2026-09-11 12:49:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:49:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:50:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:50:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:50:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Analisis de progreso con IA
+2026-09-11 12:55:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-11 12:55:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:55:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 12:56:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 12:56:05, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 12:56:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 13:00:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Analisis de progreso con IA
+2026-09-11 13:01:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Analisis de progreso con IA
+2026-09-11 14:12:32, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-11 14:12:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 14:12:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 14:12:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 14:12:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 14:13:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 14:13:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 14:13:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 14:13:16, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 14:13:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Analisis de progreso con IA
+2026-09-11 23:10:08, 4953f4d1-0dbd-407b-b550-02259159fdad, Registro, Meta: Mejorar el manejo del balon
+2026-09-11 23:10:10, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Estadísticas de resumen
+2026-09-11 23:10:25, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Informacion de metas y racha
+2026-09-11 23:10:43, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Estadísticas de resumen
+2026-09-11 23:10:45, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Esfuerzo por categoría
+2026-09-11 23:10:48, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Informacion de metas y racha
+2026-09-11 23:10:52, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de categorías de ejercicios
+2026-09-11 23:10:57, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-11 23:11:01, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-11 23:11:05, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Regate
+2026-09-11 23:11:08, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Tiro
+2026-09-11 23:11:11, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-11 23:11:13, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Pase
+2026-09-11 23:11:19, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-11 23:11:29, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de categorías de ejercicios
+2026-09-11 23:11:38, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-11 23:11:40, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de categorías de ejercicios
+2026-09-11 23:11:47, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-11 23:11:54, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-11 23:12:02, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-11 23:12:12, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Pase
+2026-09-11 23:12:16, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Pase
+2026-09-11 23:12:24, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Pase
+2026-09-11 23:12:39, 4953f4d1-0dbd-407b-b550-02259159fdad, Registro, Rutina manual: Rutina de los lunes
+2026-09-11 23:12:41, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-11 23:12:50, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Rutina: Rutina de los lunes
+2026-09-11 23:13:10, 4953f4d1-0dbd-407b-b550-02259159fdad, Ejecucion, Rutina: Rutina de los lunes, Esfuerzo: 4
+2026-09-11 23:13:13, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-11 23:13:18, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Estadísticas de resumen
+2026-09-11 23:13:20, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Esfuerzo por categoría
+2026-09-11 23:13:22, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Informacion de metas y racha
+2026-09-11 23:13:48, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-11 23:14:55, 4953f4d1-0dbd-407b-b550-02259159fdad, Registro, Rutina generada: Rutina de los miercoles (IA) (origen: ia)
+2026-09-11 23:14:57, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-11 23:15:05, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Rutina: Rutina de los miercoles (IA)
+2026-09-11 23:15:54, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-11 23:15:55, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de categorías de ejercicios
+2026-09-11 23:16:02, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-11 23:16:19, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-11 23:16:25, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Ejercicios de categoría: Regate
+2026-09-11 23:16:42, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Informacion de metas y racha
+2026-09-11 23:16:47, 4953f4d1-0dbd-407b-b550-02259159fdad, Logout
+2026-09-11 23:17:00, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-11 23:17:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 23:17:08, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-11 23:17:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-11 23:17:17, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Esfuerzo por categoría
+2026-09-11 23:17:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 23:21:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Analisis de progreso con IA
+2026-09-11 23:30:29, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-11 23:30:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Logout
+2026-09-12 11:42:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-12 11:42:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-12 11:42:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 11:42:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-12 11:42:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-12 11:42:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 11:42:36, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-12 11:42:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 11:42:53, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 11:42:55, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-12 11:42:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Logout
+2026-09-12 11:43:12, 4953f4d1-0dbd-407b-b550-02259159fdad, Login
+2026-09-12 11:43:14, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Estadísticas de resumen
+2026-09-12 11:43:18, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-12 11:43:37, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-12 11:45:02, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-12 11:46:43, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Listado de rutinas
+2026-09-12 11:46:48, 4953f4d1-0dbd-407b-b550-02259159fdad, Consulta, Informacion de metas y racha
+2026-09-12 11:46:51, 4953f4d1-0dbd-407b-b550-02259159fdad, Logout
+2026-09-12 11:47:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-12 11:47:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-12 11:47:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 11:49:50, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadísticas de resumen
+2026-09-12 11:49:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 11:50:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Registro, Rutina generada: Rutina prueba de carga (IA) (origen: ia)
+2026-09-12 11:50:32, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 12:23:16, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-12 12:23:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 12:23:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-12 12:23:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-12 12:23:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-12 12:23:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 12:23:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-12 12:23:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 12:23:41, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-12 12:23:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-12 12:23:46, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Tiro
+2026-09-12 12:23:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-12 12:23:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-12 12:23:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-12 12:23:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-12 12:24:00, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Pase
+2026-09-12 12:24:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-12 12:24:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-12 12:24:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 12:24:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-12 12:24:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Actualizacion, Perfil actualizado
+2026-09-12 12:24:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-12 12:24:36, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 12:24:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-12 12:24:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-12 12:24:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-12 12:24:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-12 12:24:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-12 12:24:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-15 11:31:35, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Registro, Meta: Mejorar tiro de media distancia
+2026-09-15 11:31:35, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Estadisticas de resumen
+2026-09-15 11:31:55, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 11:32:25, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Logout
+2026-09-15 11:32:49, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Login
+2026-09-15 11:32:49, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Estadisticas de resumen
+2026-09-15 11:53:00, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 11:53:02, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Logout
+2026-09-15 11:57:28, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Login
+2026-09-15 12:00:46, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Login
+2026-09-15 12:00:46, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Estadisticas de resumen
+2026-09-15 12:00:48, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:01:45, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Actualizacion, Perfil actualizado
+2026-09-15 12:01:45, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:04:32, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:05:01, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, MetaAlcanzada, Meta: Mejorar tiro de media distancia
+2026-09-15 12:05:03, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:05:42, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:05:46, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-15 12:06:02, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Actualizacion, Perfil actualizado
+2026-09-15 12:07:24, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, MetaAlcanzada, Meta: Mejorar manejo del balon
+2026-09-15 12:07:27, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:07:29, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-15 12:07:51, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Actualizacion, Perfil actualizado
+2026-09-15 12:07:58, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, MetaAlcanzada, Meta: Mejorar defensa
+2026-09-15 12:08:00, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:08:01, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-15 12:09:06, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de categorías de ejercicios
+2026-09-15 12:09:14, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 12:09:58, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:12:42, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Registro, Rutina generada: Rutina AUDITORIA (Fallback) (origen: fallback)
+2026-09-15 12:12:59, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:13:07, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Eliminacion, Rutina: Rutina AUDITORIA (Fallback)
+2026-09-15 12:13:07, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:13:44, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Registro, Rutina generada: Rutina AUDITORIA (IA) (origen: ia)
+2026-09-15 12:13:46, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:14:13, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Rutina: Rutina AUDITORIA (IA)
+2026-09-15 12:14:27, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:17:32, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Registro, Rutina generada: Rutina AUDITORIA 2 (Fallback) (origen: fallback)
+2026-09-15 12:17:33, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:17:45, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Rutina: Rutina AUDITORIA 2 (Fallback)
+2026-09-15 12:19:33, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:19:34, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de categorías de ejercicios
+2026-09-15 12:19:41, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 12:19:43, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 12:19:44, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 12:19:55, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:19:56, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de categorías de ejercicios
+2026-09-15 12:19:59, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 12:20:00, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 12:20:01, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 12:20:05, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-15 12:20:07, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-15 12:20:08, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-15 12:20:09, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-15 12:20:37, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Registro, Rutina manual: Rutina AUDITORIA 3
+2026-09-15 12:20:37, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:20:46, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Rutina: Rutina AUDITORIA 3
+2026-09-15 12:22:43, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Ejecucion, Rutina: Rutina AUDITORIA 3, Esfuerzo: 3
+2026-09-15 12:22:44, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:22:46, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Rutina: Rutina AUDITORIA 2 (Fallback)
+2026-09-15 12:22:48, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Ejecucion, Rutina: Rutina AUDITORIA 2 (Fallback), Esfuerzo: 3
+2026-09-15 12:22:49, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:22:50, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Rutina: Rutina AUDITORIA (IA)
+2026-09-15 12:22:52, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Ejecucion, Rutina: Rutina AUDITORIA (IA), Esfuerzo: 3
+2026-09-15 12:22:53, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:22:55, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-15 12:23:21, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:23:23, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Rutina: Rutina AUDITORIA (IA)
+2026-09-15 12:23:26, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Ejecucion, Rutina: Rutina AUDITORIA (IA), Esfuerzo: 2
+2026-09-15 12:23:27, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:23:29, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Rutina: Rutina AUDITORIA 2 (Fallback)
+2026-09-15 12:23:31, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Ejecucion, Rutina: Rutina AUDITORIA 2 (Fallback), Esfuerzo: 5
+2026-09-15 12:23:32, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:23:33, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Rutina: Rutina AUDITORIA 3
+2026-09-15 12:23:37, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Ejecucion, Rutina: Rutina AUDITORIA 3, Esfuerzo: 1
+2026-09-15 12:23:38, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:23:40, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de categorías de ejercicios
+2026-09-15 12:23:58, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-15 12:27:10, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:27:15, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Logout
+2026-09-15 12:27:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-15 12:27:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-15 12:27:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-15 12:27:39, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-15 12:27:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Logout
+2026-09-15 12:27:56, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Login
+2026-09-15 12:27:56, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Estadisticas de resumen
+2026-09-15 12:27:57, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-15 12:27:58, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:28:42, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de categorías de ejercicios
+2026-09-15 12:28:45, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-15 12:29:55, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Analisis de progreso con IA
+2026-09-15 12:30:04, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Analisis de progreso con IA
+2026-09-15 12:31:41, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Analisis de progreso con IA
+2026-09-15 12:32:13, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Analisis de progreso con IA
+2026-09-15 12:34:03, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Analisis de progreso con IA
+2026-09-15 12:34:35, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-15 12:34:36, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-15 12:34:39, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de categorías de ejercicios
+2026-09-15 12:34:40, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-15 22:41:56, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Registro, Meta: Mejorar el dunkeo
+2026-09-15 22:41:56, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Estadisticas de resumen
+2026-09-15 22:42:01, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Listado de rutinas
+2026-09-15 22:42:04, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Listado de categorías de ejercicios
+2026-09-15 22:42:06, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 22:42:09, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-15 22:42:15, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Ejercicios de categoría: Regate
+2026-09-15 22:42:18, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Ejercicios de categoría: Tiro
+2026-09-15 22:42:25, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-15 22:44:35, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Dashboard de estadisticas
+2026-09-15 22:44:50, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Consulta, Informacion de metas y racha
+2026-09-15 22:44:56, 25fff54c-5725-4915-9d2a-afea10cb5d3d, Logout
+2026-09-15 22:45:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-15 22:45:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-15 22:45:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-15 22:45:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-15 22:46:00, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 22:46:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 22:46:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 22:46:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-15 22:46:08, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-15 22:46:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-15 22:46:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-15 22:46:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Analisis de progreso con IA
+2026-09-15 22:47:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-15 22:47:39, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-15 22:48:00, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-15 22:48:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-15 22:48:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-15 22:48:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina pase
+2026-09-15 22:48:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-15 22:48:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-15 22:49:13, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-15 22:49:29, 8d1f0a97-246a-43d2-89e4-794bdb371622, Logout
+2026-09-16 12:27:49, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Login
+2026-09-16 12:27:49, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Estadisticas de resumen
+2026-09-16 12:28:19, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-16 12:28:41, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-16 12:28:42, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Rutina: Rutina AUDITORIA 2 (Fallback)
+2026-09-16 12:28:43, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Ejecucion, Rutina: Rutina AUDITORIA 2 (Fallback), Esfuerzo: 3
+2026-09-16 12:28:44, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de rutinas
+2026-09-16 12:28:46, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-16 12:28:49, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Informacion de metas y racha
+2026-09-16 12:29:38, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Listado de categorías de ejercicios
+2026-09-16 12:29:40, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Dashboard de estadisticas
+2026-09-16 12:29:58, 5a1602f6-8c89-4692-8a7b-edf5bda0cfb7, Consulta, Analisis de progreso con IA
+2026-09-19 16:22:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-19 16:22:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-19 16:23:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-19 16:23:30, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-19 16:23:32, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-19 16:23:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-19 16:24:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-19 16:25:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 17:34:20, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Registro, Meta: mejorar la defensa
+2026-09-24 17:34:20, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Estadisticas de resumen
+2026-09-24 17:35:00, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:35:03, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de categorías de ejercicios
+2026-09-24 17:35:10, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 17:35:21, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 17:35:47, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 17:36:13, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-24 17:36:16, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Tiro
+2026-09-24 17:36:22, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Dashboard de estadisticas
+2026-09-24 17:36:34, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Informacion de metas y racha
+2026-09-24 17:37:22, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:37:26, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de categorías de ejercicios
+2026-09-24 17:37:31, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:37:34, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de categorías de ejercicios
+2026-09-24 17:37:44, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Tiro
+2026-09-24 17:37:49, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Tiro
+2026-09-24 17:37:50, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Tiro
+2026-09-24 17:38:08, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:38:08, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de categorías de ejercicios
+2026-09-24 17:38:10, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Tiro
+2026-09-24 17:38:11, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Tiro
+2026-09-24 17:38:15, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Tiro
+2026-09-24 17:38:24, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-24 17:38:30, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-24 17:38:38, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-24 17:38:50, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Registro, Rutina manual: Rutina de los lunes
+2026-09-24 17:38:50, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:38:58, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Rutina: Rutina de los lunes
+2026-09-24 17:39:31, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Ejecucion, Rutina: Rutina de los lunes, Esfuerzo: 4
+2026-09-24 17:39:32, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:39:36, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Dashboard de estadisticas
+2026-09-24 17:40:34, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:42:00, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Registro, Rutina generada: Rutina de los martes (IA) (origen: ia)
+2026-09-24 17:42:01, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:42:25, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Rutina: Rutina de los martes (IA)
+2026-09-24 17:45:47, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:45:48, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de categorías de ejercicios
+2026-09-24 17:45:50, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-24 17:46:16, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:46:17, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Rutina: Rutina de los martes (IA)
+2026-09-24 17:46:20, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Ejecucion, Rutina: Rutina de los martes (IA), Esfuerzo: 2
+2026-09-24 17:46:21, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Listado de rutinas
+2026-09-24 17:46:24, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Dashboard de estadisticas
+2026-09-24 17:48:51, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Analisis de progreso con IA
+2026-09-24 17:51:41, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Informacion de metas y racha
+2026-09-24 17:52:04, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, MetaAlcanzada, Meta: mejorar la defensa
+2026-09-24 17:52:25, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Actualizacion, Perfil actualizado
+2026-09-24 17:52:25, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Informacion de metas y racha
+2026-09-24 17:53:14, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Dashboard de estadisticas
+2026-09-24 18:01:16, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Informacion de metas y racha
+2026-09-24 18:01:18, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Logout
+2026-09-24 18:01:36, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Login
+2026-09-24 18:01:36, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Estadisticas de resumen
+2026-09-24 18:04:09, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Consulta, Informacion de metas y racha
+2026-09-24 18:04:11, a09dfa47-0f36-479d-aaff-75cafd2d2ac8, Logout
+2026-09-24 20:36:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-24 20:36:27, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 20:36:30, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:36:35, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:36:36, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:36:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:36:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:36:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:36:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:36:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-24 20:37:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-24 20:37:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:37:16, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-24 20:41:20, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 20:41:22, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:41:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:41:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:41:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Regate
+2026-09-24 20:41:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Habilidades defensivas
+2026-09-24 20:41:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:42:07, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 20:42:09, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:42:10, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:42:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:42:20, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:42:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:42:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:42:47, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:42:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:42:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:42:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:42:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina prueba de carga (IA)
+2026-09-24 20:44:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:44:40, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:44:41, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:44:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:44:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:44:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Prueba series y repeticiones
+2026-09-24 20:44:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:44:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina prueba de carga (IA)
+2026-09-24 20:44:55, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:44:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-24 20:44:59, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-24 20:45:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 20:45:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:45:18, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:45:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:45:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:45:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:45:26, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Manejo del balon
+2026-09-24 20:46:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 20:46:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:46:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:46:52, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:47:11, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:47:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:47:13, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:49:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 20:49:14, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:49:15, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina prueba de carga (IA)
+2026-09-24 20:49:56, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:49:57, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:49:58, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:50:00, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:50:02, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:50:03, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:56:19, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 20:56:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:56:24, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Rutina: Rutina prueba de carga (IA)
+2026-09-24 20:56:25, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:56:32, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:56:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:56:34, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:56:42, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 20:56:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 20:56:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 20:56:49, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-24 20:57:04, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-24 20:57:12, 8d1f0a97-246a-43d2-89e4-794bdb371622, Logout
+2026-09-24 21:20:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Login
+2026-09-24 21:20:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 21:20:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 21:20:48, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 21:21:06, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 21:22:21, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 21:22:23, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 21:22:28, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Dashboard de estadisticas
+2026-09-24 21:22:31, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Estadisticas de resumen
+2026-09-24 21:22:33, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Informacion de metas y racha
+2026-09-24 21:22:37, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 21:22:38, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 21:22:43, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas
+2026-09-24 21:22:44, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de categorías de ejercicios
+2026-09-24 21:22:45, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Ejercicios de categoría: Finalizacion
+2026-09-24 21:22:51, 8d1f0a97-246a-43d2-89e4-794bdb371622, Consulta, Listado de rutinas

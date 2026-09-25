@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Entornos y secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Base de datos local
+*.db
+*.sqlite3
+
+# Flet builds
+build/
+dist/
+
+# VS Code
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db

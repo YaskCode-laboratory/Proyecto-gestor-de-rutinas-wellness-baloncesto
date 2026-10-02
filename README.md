@@ -51,72 +51,60 @@ Todo ello con un mismo propósito:
 ## 🚀 Instalación
 
 ### Requisitos previos
+- Python
+- Git
 
-- Python.
-- Git.
+### 1. Clonar el repositorio
+git clone https://github.com/vyi060417-lgtm/Proyecto-gestor-de-rutinas-wellness-baloncesto.git
+cd Proyecto-gestor-de-rutinas-wellness-baloncesto
 
-### Clonar el repositorio
-
-```bash
-git clone https://github.com/vyi060417-lgtm/Proyecto-gestor-de-rutinas-wellness-baloncesto
-```
-
-Configurar el backend
-
-```bash
-cd IsWellnessBackend-main
+### 2. Crear entorno virtual e instalar dependencias
+python -m venv venv
+venv\Scripts\activate       # Windows CMD
+source venv/bin/activate    # Linux/Mac
 
 pip install -r requirements.txt
 
-cp .env.example .env
-# Edita el archivo .env con tus credenciales
-```
+### 3. Configurar variables de entorno
 
-Variables de entorno requeridas:
+Backend:
+cd IsWellnessBackend-main
+copy .env.example .env      # Windows CMD
+cp .env.example .env        # Linux/Mac
 
-```
+Edita IsWellnessBackend-main/.env con tus credenciales:
 DATABASE_URL=sqlite:///./wellness.db
 SECRET_KEY=tu-clave-secreta
 ACCESS_TOKEN_EXPIRE_MINUTES=30
 GEMINI_API_KEY=tu-api-key-de-gemini
-```
 
-Poblar la base de datos con categorías y ejercicios:
-
-```bash
-python scripts/seed_data.py
-```
-
-Iniciar el backend:
-
-```bash
-uvicorn main:app --reload
-```
-
-El backend estará disponible en http://localhost:8000.
-
-Configurar el frontend
-
-En otra terminal:
-
-```bash
+Frontend (en otra terminal, desde la raíz del proyecto):
 cd IsWellness-main
+copy .env.example .env      # Windows CMD
+cp .env.example .env        # Linux/Mac
 
-cp .env.example .env
-# BASE_URL=http://localhost:8000
+El archivo IsWellness-main/.env debe contener:
+BASE_URL=http://localhost:8000
 
-flet run
-```
+### 4. Poblar la base de datos
 
-Ejecución rápida (Windows)
+Desde IsWellnessBackend-main:
+python scripts/seed_data.py
 
-En la raíz del proyecto, haz doble clic sobre el archivo:
+### 5. Ejecutar
 
-```
-Iniciar_app.bat
-```
+Opción rápida (Windows):
+En la raíz del proyecto, doble clic en:
+iniciar_app.bat
 
-El script levanta el backend y el frontend automáticamente.
+Opción manual:
+- Terminal 1 (backend):
+  cd IsWellnessBackend-main
+  uvicorn main:app --reload
+
+- Terminal 2 (frontend):
+  cd IsWellness-main
+  flet run 
 
 ---
 
@@ -140,4 +128,3 @@ Entre las próximas incorporaciones se encuentran:
 · 🎨 Nuevas mejoras de interfaz y accesibilidad.
 
 ---
-

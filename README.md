@@ -52,7 +52,7 @@ Todo ello con un mismo propósito:
 
 ### Requisitos previos
 
-- Python 3.14 o superior.
+- Python.
 - Git.
 
 ### Clonar el repositorio

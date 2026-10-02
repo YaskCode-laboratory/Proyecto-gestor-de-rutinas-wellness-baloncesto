@@ -58,8 +58,7 @@ Todo ello con un mismo propósito:
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/vyi060417-lgtm/Wellness-Basket.git
-cd Wellness-Basket
+git clone https://github.com/vyi060417-lgtm/Proyecto-gestor-de-rutinas-wellness-baloncesto
 ```
 
 Configurar el backend

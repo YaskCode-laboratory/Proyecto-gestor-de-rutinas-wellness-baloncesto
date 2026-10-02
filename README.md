@@ -113,7 +113,7 @@ Ejecución rápida (Windows)
 En la raíz del proyecto, haz doble clic sobre el archivo:
 
 ```
-Iniciar_Wellness.bat
+Iniciar_app.bat
 ```
 
 El script levanta el backend y el frontend automáticamente.

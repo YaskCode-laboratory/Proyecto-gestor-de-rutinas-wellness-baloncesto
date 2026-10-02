@@ -27,6 +27,7 @@ Todo ello con un mismo propósito:
 - SQLAlchemy
 - Uvicorn
 - PyJWT
+- Pwdlib (bcrypt + argon2)
 
 ### Frontend
 

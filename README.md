@@ -22,7 +22,7 @@ Todo ello con un mismo propósito:
 
 ### Backend
 
-- Python 3.14
+- Python
 - FastAPI
 - SQLAlchemy
 - Uvicorn
@@ -32,7 +32,7 @@ Todo ello con un mismo propósito:
 ### Frontend
 
 - Python
-- Flet 0.85
+- Flet
 
 ### Base de datos
 

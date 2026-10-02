@@ -178,6 +178,3 @@ Entre las próximas incorporaciones se encuentran:
 - 🔔 Recordatorios de entrenamiento.
 - 📱 Optimización para dispositivos móviles.
 - 🎨 Nuevas mejoras de interfaz y accesibilidad.
-```
-
----

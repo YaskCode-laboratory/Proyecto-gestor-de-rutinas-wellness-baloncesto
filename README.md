@@ -119,3 +119,25 @@ Iniciar_app.bat
 El script levanta el backend y el frontend automáticamente.
 
 ---
+
+👥 Equipo
+
+Integrante
+Víctor Alejandro Yi Rosario
+
+---
+
+🚧 Estado del proyecto
+
+Wellness Basket continúa en desarrollo activo.
+
+Entre las próximas incorporaciones se encuentran:
+
+· 📈 Gráficos avanzados de progreso.
+· 🏆 Sistema de logros y medallas.
+· 🔔 Recordatorios de entrenamiento.
+· 📱 Optimización para dispositivos móviles.
+· 🎨 Nuevas mejoras de interfaz y accesibilidad.
+
+---
+

@@ -97,7 +97,7 @@ Arquitectura en capas con separación entre presentación, lógica y persistenci
 
 ### Base de datos
 
-- SQLite (desarrollo local)
+- SQLite
 
 ### Inteligencia Artificial
 
@@ -249,7 +249,7 @@ Las pruebas funcionales cubren:
 - Generación de imagen PNG de progreso.
 - Registro de eventos en `logs.txt`.
 
-Las pruebas se ejecutan manualmente desde la aplicación en Flet.
+Las pruebas se ejecutan manualmente desde la aplicación en Flet y se registraron de manera detallada (pasos para reproducir, resultado esperado, resultado obtenido y estado de conformidad) en [`docs/Matriz de casos.xlsx`](docs/Matriz%20de%20casos.xlsx). Las capturas de pantalla que evidencian cada prueba están compiladas en [`docs/Evidencias de las pruebas de la matriz de casos.pdf`](docs/Evidencias%20de%20las%20pruebas%20de%20la%20matriz%20de%20casos.pdf)..
 
 ---
 

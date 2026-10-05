@@ -251,21 +251,6 @@ El sistema contempla las cuatro categorías de mantenimiento:
 
 ---
 
-## 📁 Documentación
-
-| Documento | Descripción |
-|---|---|
-| Diagrama de Casos de Uso UML | Actores, casos y relaciones `<<Include>>` |
-| Diagrama de Actividades con Responsables | Pools: Cliente, Sistema, Agente de IA |
-| Diagrama de Clases UML | Entidades, servicios y enumeraciones |
-| Diagrama de Objetos UML | Instancias reales del sistema |
-| Diagrama UML de Base de Datos | Modelo entidad-relación de las 8 tablas |
-| Registro de Aspectos Desarrollados | Plantilla de auditoría con 24 aspectos |
-| Registro de Evidencias | Capturas de pantalla y base de datos |
-| Plan de Actividades ejecutadas | Cronología del desarrollo (julio - septiembre 2026) |
-
----
-
 ## 👥 Equipo
 
 | Integrante |

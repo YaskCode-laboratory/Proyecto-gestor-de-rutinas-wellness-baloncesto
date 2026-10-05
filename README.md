@@ -64,7 +64,6 @@ Deporte / Baloncesto / Rendimiento físico / Salud.
 
 - Registro de actividad en `logs.txt` con FECHA, USUARIO y ACTIVIDAD.
 - Persistencia en 8 tablas: User, Goal, Category, Exercise, Routine, RoutineExercise, Metric, ExecutionLog.
-- Borrado lógico mediante `is_deleted`.
 
 ---
 

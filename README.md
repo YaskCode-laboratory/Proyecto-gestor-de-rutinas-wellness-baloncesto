@@ -69,12 +69,12 @@ Deporte / Baloncesto / Rendimiento físico / Salud.
 
 ## 🏗️ Arquitectura y diseño
 
-Arquitectura en capas con separación entre presentación, lógica de negocio y persistencia.
+Arquitectura en capas con separación entre presentación, lógica y persistencia.
 
 - **Presentación:** Flet como cliente de escritorio.
-- **API:** FastAPI con routers por dominio (auth, routines, exercises, estadisticas).
+- **API:** FastAPI con routers por dominio.
 - **Servicios:** AuthService, IAService y Logger.
-- **Persistencia:** SQLAlchemy sobre SQLite local y MySQL Aiven en la nube.
+- **Persistencia:** SQLAlchemy sobre SQLite local.
 - **IA externa:** Google Gemini con fallback heurístico ante fallos.
 
 ---
@@ -98,7 +98,6 @@ Arquitectura en capas con separación entre presentación, lógica de negocio y 
 ### Base de datos
 
 - SQLite (desarrollo local)
-- MySQL Aiven (entorno en la nube)
 
 ### Inteligencia Artificial
 
@@ -220,6 +219,21 @@ cd IsWellness-main
 flet run
 
 ```
+
+---
+
+## 📚 Documentación
+
+Toda la documentación del proyecto se encuentra en la carpeta [`docs/`](docs/).
+
+| Documento | Descripción |
+|---|---|
+| [Plan de actividades](docs/Plan%20de%20actividades.docx) | Cronología del desarrollo con las tareas ejecutadas día por día, desde julio hasta septiembre de 2026. |
+| [Ingeniería de Software 2026](docs/Ingenieria%20Software%202026.docx) | Documento principal: estado del arte, requisitos, riesgos, Gantt, casos de uso, diagramas UML, codificación POO y metodología. |
+| [Presentación del Proyecto](docs/Presentacion%20del%20proyecto%20para%20defensa%202026.pptx) | Diapositivas de defensa: descripción, estado del arte, planificación, riesgos, tecnologías, UML, arquitectura, pruebas, mantenimiento y conclusiones. |
+| [Matriz de casos](docs/Matriz%20de%20casos.xlsx) | Plantilla de auditoría con los 20 aspectos analizados, pasos para reproducir, resultado esperado, resultado obtenido y estado de conformidad. |
+| [Evidencias de las pruebas](docs/Evidencias%20de%20las%20pruebas%20de%20la%20matriz%20de%20casos.pdf) | Registro fotográfico de las 20 pruebas ejecutadas sobre el sistema, con capturas de pantalla de cada caso. |
+| [Diagramas UML](docs/UML/) | Carpeta con los diagramas finales: casos de uso, actividades con responsables, clases, objetos y base de datos. |
 
 ---
 

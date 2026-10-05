@@ -272,17 +272,23 @@ El sistema contempla las cuatro categorías de mantenimiento:
 
 ---
 
-## 🚧 Estado del proyecto
+## 🚧 Estado del Proyecto
 
-Wellness Basket continúa en desarrollo activo.
+### Versión académica final (v1.0)
 
-Entre las próximas incorporaciones se encuentran:
+El sistema se encuentra en su versión académica final, con todas las funcionalidades implementadas, probadas y documentadas: autenticación con JWT, perfil deportivo, metas con indicador visual, catálogo de ejercicios, generación de rutinas con IA y fallback heurístico, creación manual de rutinas, ejecución con valoración de esfuerzo, estadísticas de progreso, análisis con IA, imagen PNG de progreso y registro en `logs.txt` con FECHA, USUARIO y ACTIVIDAD. El sistema opera con un único rol: **Cliente**. El rol Administrador/instructor fue eliminado porque el catálogo se carga por script y el Agente de IA añade ejercicios nuevos automáticamente; el Instructor/administrador se redujo del alcance porque el sistema está diseñado como plataforma de autogestión donde el usuario configura su perfil, define sus metas y genera rutinas sin intermediación humana.
 
-- 📈 Gráficos avanzados de progreso.
-- 🏆 Sistema de logros y medallas.
-- 🔔 Recordatorios de entrenamiento.
-- 📱 Optimización para dispositivos móviles.
-- 🎨 Nuevas mejoras de interfaz y accesibilidad.
+---
+
+## 🔮 Futuras Incorporaciones
+
+Las siguientes funcionalidades quedan documentadas como líneas de trabajo posteriores a la versión académica:
+
+- Notificaciones y recordatorios de entrenamiento.
+- Sistema de logros y medallas.
+- Gráficos avanzados de progreso.
+- Módulos de visión por cámara para análisis automático de tiro.
+- Optimización para dispositivos móviles.
 
 ---
 
